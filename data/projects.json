@@ -1,0 +1,71 @@
+{
+    "projects":[
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        },
+
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        },
+
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        },
+
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        },
+
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        },
+
+        {
+            "id": 1,
+            "title": "Library management system",
+            "tech_stack":"['python', 'django', 'sqlite']"
+        }
+    ],
+
+    "education":[
+        {
+            "id": 1,
+            "name": "Ongata Brookview Academy",
+            "level": "primary"
+        },
+
+        {
+            "id": 2,
+            "name": "St.Mary's Mosocho Primary School",
+            "level": "primary"
+        }
+
+        {
+            "id": 3,
+            "name": "Agoro Sare High School",
+            "level": "Secondary"
+        }
+    ],
+
+    "skills":[
+        {
+          "Programming_languages": "['Python', 'Java', 'javaScript', ]",
+          "databases": "['sql-server', 'oracle', 'sqlite', 'cassandra']",
+          "web-frameworks":
+          {
+            "javascript":"['vue js', 'next js']",
+            "php":"['laravel']"
+          }
+        }
+    ]
+}
